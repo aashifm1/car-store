@@ -25,5 +25,5 @@ A simple command-line based car store simulation in Python. Users can browse ava
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/carbuy360.git
-   cd carbuy360
+   git clone https://github.com/aashifm1/car-store.git
+   cd car-store
